@@ -101,10 +101,7 @@ height: 100vh;
 	text-align:left;
 	padding: 20px;
 }
-#btn{
-	padding-left: 50px;
-	padding-right: 50px;
-	margin-left: 50px;
-	margin-right: 50px;
-    
+
+#contact{
+    text-align: center;
 }
